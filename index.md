@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-nav: 1
+nav_order: 1
 ---
 
 ## Overview
