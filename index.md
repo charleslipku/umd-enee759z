@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav: 1
 ---
 
 ## Overview
