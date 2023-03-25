@@ -3,20 +3,24 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+## Overview
+Theoretical and practical aspects of computer systems security. Topics covered include symmetric/asymmetric encryption, message authentication, digital signatures, access control, as well as network security, web security and cloud security. Students acquire tools necessary for designing secure computer systems and programs and for defending against malicious threats (e.g., viruses, worms, denial of service).
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## General Information
+* This course meets on Mon/Wed 11:00 AM-12:15 PM in EGR 1108.
+* The prerequisites for this course are: Minimum grade of C- in ENEE350 (or equivalent); and departmental permission.
+* The TA for this course is: TBD.
 
-More specifically, the created site:
+## Textbook (optional)
+* Introduction to Computer Security, Goodrich and Tamassia, Addison Wesley, 2011
+* Introduction to Modern Cryptography, 3rd Edition, Katz and Lindell, Chapman & Hall/CRC 2020
+* Cryptography and Network Secruity: Principles and Practice, 6th Edition, Stallings, Pearson 2014
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## Office Hours
+* **Instructor office hours**: TBD
+* **TA office hours**: TBD
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, just click "[use this template]"!
+All students are presumed to be aware of the UMD policy on [academic integrity](https://academiccatalog.umd.edu/undergraduate/registration-academic-requirements-regulations/academic-integrity-student-conduct-codes/).
 
 ----
 
