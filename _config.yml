@@ -8,3 +8,8 @@ search.previews: 3
 search.preview_words_before: 5
 search.preview_words_after: 10
 search.button: true
+
+callouts:
+  note:
+    title: Note
+    color: purple
