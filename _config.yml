@@ -4,4 +4,5 @@ theme: just-the-docs
 
 url: http://www.ang-li.com/umd-enee457/
 
-
+plugins:
+  - jekyll-default-layout
