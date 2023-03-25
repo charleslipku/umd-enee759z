@@ -23,6 +23,7 @@ Theoretical and practical aspects of computer systems security. Topics covered i
 
 {: .note }
 All students are presumed to be aware of the UMD policy on [academic integrity](https://academiccatalog.umd.edu/undergraduate/registration-academic-requirements-regulations/academic-integrity-student-conduct-codes/).
+{: .note }
 
 ----
 
