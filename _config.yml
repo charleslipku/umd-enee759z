@@ -3,5 +3,8 @@ description: ENEE 457-Computer Systems Security (Fall 2023)
 theme: just-the-docs
 
 url: https://charleslipku.github.io/umd-enee457/
-
-
+search_enabled: true
+search.previews: 3
+search.preview_words_before: 5
+search.preview_words_after: 10
+search.button: true
