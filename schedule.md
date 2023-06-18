@@ -5,8 +5,15 @@ nav_order: 2
 ---
 
 
+---
+<style>
 
-<html>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+
 <table>
     <tr>
         <th>Date</th>
@@ -14,7 +21,7 @@ nav_order: 2
         <th>References</th>
     </tr>
     <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 1</td>
+        <td colspan=3 style="background: #ADD8E6; text-align: center"> Week 1</td>
     </tr>
     <tr>
         <td>Aug 28</td>
@@ -214,3 +221,4 @@ nav_order: 2
         <td></td>
         <td></td>
     </tr>
+</table>
