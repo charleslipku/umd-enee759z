@@ -7,7 +7,6 @@ nav_order: 2
 
 ---
 <style>
-
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
@@ -21,7 +20,7 @@ table, th, td {
         <th>References</th>
     </tr>
     <tr>
-        <td colspan=3 style="background: #ADD8E6; text-align: center"> Week 1</td>
+        <td colspan=3 style="background: #B1ACE6; text-align: center"> Week 1</td>
     </tr>
     <tr>
         <td>Aug 28</td>
@@ -34,7 +33,7 @@ table, th, td {
         <td></td>
     </tr>
         <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 2</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 2</td>
     </tr>
         <tr>
         <td>Sep 4</td>
@@ -46,7 +45,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 3</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 3</td>
     </tr>
         <tr>
         <td>Sep 11</td>
@@ -59,7 +58,7 @@ table, th, td {
         <td></td>
     </tr>
         <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 4</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 4</td>
     </tr>
         <tr>
         <td>Sep 18</td>
@@ -72,7 +71,7 @@ table, th, td {
         <td></td>
     </tr>
         <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 5</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 5</td>
     </tr>
         <tr>
         <td>Sep 25</td>
@@ -85,7 +84,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 6</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 6</td>
     </tr>
         <tr>
         <td>Oct 2</td>
@@ -98,7 +97,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 7</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 7</td>
     </tr>
         <tr>
         <td>Oct 9</td>
@@ -111,7 +110,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 8</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 8</td>
     </tr>
         <tr>
         <td>Oct 16</td>
@@ -124,7 +123,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 9</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 9</td>
     </tr>
         <tr>
         <td>Oct 23</td>
@@ -137,7 +136,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 10</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 10</td>
     </tr>
         <tr>
         <td>Oct 30</td>
@@ -150,7 +149,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 11</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 11</td>
     </tr>
         <tr>
         <td>Nov 6</td>
@@ -163,7 +162,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 12</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 12</td>
     </tr>
         <tr>
         <td>Nov 13</td>
@@ -176,7 +175,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 13</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 13</td>
     </tr>
         <tr>
         <td>Nov 20</td>
@@ -188,7 +187,7 @@ table, th, td {
         <td colspan="2" style="text-align: center"><i><b>Thanksgiving Recess</b></i></td>
     </tr>
     <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 14</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 14</td>
     </tr>
         <tr>
         <td>Nov 27</td>
@@ -201,7 +200,7 @@ table, th, td {
         <td></td>
     </tr>
      <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 15</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 15</td>
     </tr>
         <tr>
         <td>Dec 4</td>
@@ -214,7 +213,7 @@ table, th, td {
         <td></td>
     </tr>
      <tr>
-        <td colspan="3" style="background-color:#ADD8E6e" style="text-align: center"> Week 16</td>
+        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 16</td>
     </tr>
         <tr>
         <td>Dec 11</td>
