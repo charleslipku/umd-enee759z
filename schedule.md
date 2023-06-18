@@ -207,7 +207,7 @@ nav_order: 2
         <td></td>
     </tr>
      <tr>
-        <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 16</td>
+        <td colspan="3" style="background-color:#ADD8E6e" style="text-align: center"> Week 16</td>
     </tr>
         <tr>
         <td>Dec 11</td>
