@@ -6,7 +6,7 @@ nav_order: 2
 
 
 
-
+<html>
 <table>
     <tr>
         <th>Date</th>
@@ -31,7 +31,7 @@ nav_order: 2
     </tr>
         <tr>
         <td>Sep 4</td>
-        <td colspan="2"><i><b>Labor Day</b></i></td>   
+        <td colspan="2" style="text-align: center"><i><b>Labor Day</b></i></td>   
     </tr>
         <tr>
         <td>Sep 6</td>
@@ -178,7 +178,7 @@ nav_order: 2
     </tr>
         <tr>
         <td>Nov 22</td>
-        <td colspan="2"><i><b>Thanksgiving Recess</b></i></td>
+        <td colspan="2" style="text-align: center"><i><b>Thanksgiving Recess</b></i></td>
     </tr>
     <tr>
         <td colspan="3" bgcolor="#ADD8E6e" style="text-align: center"> Week 14</td>
@@ -214,3 +214,4 @@ nav_order: 2
         <td></td>
         <td></td>
 </table>
+</html>
