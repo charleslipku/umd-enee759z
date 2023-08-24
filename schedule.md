@@ -49,12 +49,12 @@ table, th, td {
     </tr>
         <tr>
         <td>Sep 11</td>
-        <td></td>
+        <td>Security Policy (II)</td>
         <td></td>
     </tr>
         <tr>
         <td>Sep 13</td>
-        <td>Security Policy (II)</td>
+        <td>Access Control</td>
         <td></td>
     </tr>
         <tr>
@@ -62,12 +62,12 @@ table, th, td {
     </tr>
         <tr>
         <td>Sep 18</td>
-        <td>Access Control</td>
+        <td>Cryptography (I)</td>
         <td></td>
     </tr>
         <tr>
         <td>Sep 20</td>
-        <td></td>
+        <td>Cryptography (II)</td>
         <td></td>
     </tr>
         <tr>
@@ -75,7 +75,7 @@ table, th, td {
     </tr>
         <tr>
         <td>Sep 25</td>
-        <td></td>
+        <td>Authentication</td>
         <td></td>
     </tr>
         <tr>
@@ -204,12 +204,12 @@ table, th, td {
     </tr>
         <tr>
         <td>Dec 4</td>
-        <td></td>
+        <td>Final Project Presentations</td>
         <td></td>
     </tr>
         <tr>
         <td>Dec 6</td>
-        <td></td>
+        <td>Final Project Presentations</td>
         <td></td>
     </tr>
      <tr>
@@ -217,7 +217,7 @@ table, th, td {
     </tr>
         <tr>
         <td>Dec 11</td>
-        <td></td>
+        <td>Final Project Presentations</td>
         <td></td>
     </tr>
 </table>
