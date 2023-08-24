@@ -18,8 +18,8 @@ Theoretical and practical aspects of computer systems security. Topics covered i
 * Cryptography and Network Secruity: Principles and Practice, 6th Edition, Stallings, Pearson 2014
 
 ## Office Hours
-* **Instructor office hours**: TBD
-* **TA office hours**: TBD
+* **Instructor office hours**: Monday 12:30-1:00 PM
+* **TA office hours**: Russell Chiu (rchiu@umd.edu), Rutledge Detyens (rdetyens@umd.edu)
 
 {: .note }
 All students are presumed to be aware of the UMD policy on [academic integrity](https://academiccatalog.umd.edu/undergraduate/registration-academic-requirements-regulations/academic-integrity-student-conduct-codes/).
