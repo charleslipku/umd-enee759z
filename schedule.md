@@ -24,12 +24,12 @@ table, th, td {
     </tr>
     <tr>
         <td>Aug 28</td>
-        <td></td>
+        <td>Introduction & Logistics</td>
         <td></td>
     </tr>
         <tr>
         <td>Aug 30</td>
-        <td></td>
+        <td>Basic Concepts</td>
         <td></td>
     </tr>
         <tr>
@@ -41,7 +41,7 @@ table, th, td {
     </tr>
         <tr>
         <td>Sep 6</td>
-        <td></td>
+        <td>Security Policy (I)</td>
         <td></td>
     </tr>
     <tr>
@@ -54,7 +54,7 @@ table, th, td {
     </tr>
         <tr>
         <td>Sep 13</td>
-        <td></td>
+        <td>Security Policy (II)</td>
         <td></td>
     </tr>
         <tr>
@@ -62,7 +62,7 @@ table, th, td {
     </tr>
         <tr>
         <td>Sep 18</td>
-        <td></td>
+        <td>Access Control</td>
         <td></td>
     </tr>
         <tr>
