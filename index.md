@@ -10,7 +10,7 @@ Theoretical and practical aspects of computer systems security. Topics covered i
 ## General Information
 * This course meets on **Mon/Wed 11:00 AM-12:15 PM** in **EGR 1108**.
 * The prerequisites for this course are: Minimum grade of C- in ENEE350 (or equivalent); and departmental permission.
-* The TA for this course is: TBD.
+* The TA for this course is: Russell Chiu (rchiu@umd.edu), Rutledge Detyens (rdetyens@umd.edu)
 
 ## Textbook (optional)
 * Introduction to Computer Security, Goodrich and Tamassia, Addison Wesley, 2011
@@ -18,8 +18,8 @@ Theoretical and practical aspects of computer systems security. Topics covered i
 * Cryptography and Network Secruity: Principles and Practice, 6th Edition, Stallings, Pearson 2014
 
 ## Office Hours
-* **Instructor office hours**: Monday 12:30-1:00 PM
-* **TA office hours**: Russell Chiu (rchiu@umd.edu), Rutledge Detyens (rdetyens@umd.edu)
+* **Instructor office hours**: Monday 12:30-1:00 PM and by appointments
+* **TA office hours**: TBD
 
 {: .note }
 All students are presumed to be aware of the UMD policy on [academic integrity](https://academiccatalog.umd.edu/undergraduate/registration-academic-requirements-regulations/academic-integrity-student-conduct-codes/).
