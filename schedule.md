@@ -102,7 +102,7 @@ table, th, td {
         <tr>
         <td>Oct 9</td>
         <td>Web Security</td>
-        <td></td>
+        <td><a href="http://en.wikipedia.org/wiki/HTTP_cookie">HTTP Cookie</a><br><a href="http://en.wikipedia.org/wiki/Same_origin_policy">Same Origin Policy</a></td>
     </tr>
         <tr>
         <td>Oct 11</td>
