@@ -50,7 +50,7 @@ table, th, td {
         <tr>
         <td>Sep 11</td>
         <td>Security Policy (II)</td>
-        <td><a href="http://seclab.cs.ucdavis.edu/projects/history/papers/biba75.pdf">Biba: Integrity Consideration for Secure Systems</td>
+        <td><a href="http://seclab.cs.ucdavis.edu/projects/history/papers/biba75.pdf">Biba: Integrity Consideration for Secure Systems</a></td>
     </tr>
         <tr>
         <td>Sep 13</td>
