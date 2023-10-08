@@ -42,7 +42,7 @@ table, th, td {
         <tr>
         <td>Sep 6</td>
         <td>Security Policy (I)</td>
-        <td></td>
+        <td><a href="http://www.acsac.org/2005/papers/Bell.pdf">Looking Back at the Bell-La Padula Model</a></td>
     </tr>
     <tr>
         <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 3</td>
@@ -50,7 +50,7 @@ table, th, td {
         <tr>
         <td>Sep 11</td>
         <td>Security Policy (II)</td>
-        <td></td>
+        <td><a href="http://seclab.cs.ucdavis.edu/projects/history/papers/biba75.pdf">Biba: Integrity Consideration for Secure Systems</td>
     </tr>
         <tr>
         <td>Sep 13</td>
@@ -89,7 +89,7 @@ table, th, td {
         <tr>
         <td>Oct 2</td>
         <td>Malware</td>
-        <td></td>
+        <td><a href="http://en.wikipedia.org/wiki/Malware">Malware</a><br><a href="http://en.wikipedia.org/wiki/Computer_virus">Computer Virus</a></td>
     </tr>
         <tr>
         <td>Oct 4</td>
@@ -102,7 +102,7 @@ table, th, td {
         <tr>
         <td>Oct 9</td>
         <td>Web Security</td>
-        <td><a href="http://en.wikipedia.org/wiki/HTTP_cookie">HTTP Cookie</a><br><a href="http://en.wikipedia.org/wiki/Same_origin_policy">Same Origin Policy</a></td>
+        <td><a href="http://en.wikipedia.org/wiki/HTTP_cookie">HTTP Cookie</a><br><a href="http://en.wikipedia.org/wiki/Same_origin_policy">Same Origin Policy</a><br><a href="https://www.cs.purdue.edu/homes/ninghui/courses/526_Fall14/handouts/SQL_Injection.ppt">Slides on SQL injection from Prof. V. N. Venkatakrishnan at UIC</a><br><a href="http://research.microsoft.com/pubs/119060/SideChannelConfTalk-n.ppt">Slides on Side Channel Attacks</a></td>
     </tr>
         <tr>
         <td>Oct 11</td>
