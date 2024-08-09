@@ -54,7 +54,7 @@ table, th, td {
     </tr>
         <tr>
         <td>Sep 11</td>
-        <td>Access Control</td>
+        <td></td>
         <td></td>
     </tr>
         <tr>
