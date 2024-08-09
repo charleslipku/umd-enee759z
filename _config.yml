@@ -12,4 +12,4 @@ search.button: true
 callouts:
   note:
     title: Note
-    color: purple
+    color: blue
