@@ -184,7 +184,8 @@ table, th, td {
     </tr>
         <tr>
         <td>Nov 20</td>
-        <td colspan="2" style="text-align: center"><i><b>Thanksgiving</b></i></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 14</td>
@@ -195,9 +196,8 @@ table, th, td {
         <td></td>
     </tr>
         <tr>
-        <td>Nov 27 (Thanksgiving, no class)</td>
-        <td></td>
-        <td></td>
+        <td>Nov 27 </td>
+        <td colspan="2" style="text-align: center"><i><b>Thanksgiving (no class)</b></i></td>
     </tr>
      <tr>
         <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 15</td>
