@@ -1,7 +1,10 @@
-$content-width: 1000px;
+@import "./color_schemes/light";
+.main-content {
+  width: 900px;
+  margin-top: 25px;
+}
 
 .site-nav, .site-header, .site-footer {
     width: 100%;
   }
 
-/* .my- {margin-top: 30px;} */
