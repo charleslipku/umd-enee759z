@@ -25,7 +25,7 @@ table, th, td {
     <tr>
         <td>Aug 26</td>
         <td>Introduction & Logistics</td>
-        <td><a href="https://arxiv.org/abs/1912.04977">Advances and Open Problems in Federated Learning</a><a href="https://arxiv.org/abs/1908.07873">Federated Learning: Challenges, Methods, and Future Directions</a></td>
+        <td><a href="https://arxiv.org/abs/1912.04977">Advances and Open Problems in Federated Learning</a><br/><a href="https://arxiv.org/abs/1908.07873">Federated Learning: Challenges, Methods, and Future Directions</a></td>
     </tr>
         <tr>
         <td>Aug 28</td>
