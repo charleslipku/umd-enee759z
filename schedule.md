@@ -89,7 +89,7 @@ table, th, td {
         <tr>
         <td>Sep 30</td>
         <td></td>
-        <td><</td>
+        <td></td>
     </tr>
         <tr>
         <td>Oct 2</td>
@@ -102,7 +102,7 @@ table, th, td {
         <tr>
         <td>Oct 7</td>
         <td></td>
-        <td></a></td>
+        <td></td>
     </tr>
         <tr>
         <td>Oct 9</td>
