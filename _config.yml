@@ -9,7 +9,7 @@ search.preview_words_before: 5
 search.preview_words_after: 10
 search.button: true
 
-color_scheme: custom
+
 
 callouts:
   note:
