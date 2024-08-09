@@ -13,9 +13,7 @@ Principles and applications of federated learning. Federated optimization, stati
 <!-- * The TA for this course is: Russell Chiu (rchiu@umd.edu), Rutledge Detyens (rdetyens@umd.edu) -->
 
 ## Textbook (optional)
-* Introduction to Computer Security, Goodrich and Tamassia, Addison Wesley, 2011
-* Introduction to Modern Cryptography, 3rd Edition, Katz and Lindell, Chapman & Hall/CRC 2020
-* Cryptography and Network Secruity: Principles and Practice, 6th Edition, Stallings, Pearson 2014
+* There are no required textbooks for this course; all required readings will be in the form of papers.
 
 ## Office Hours
 * **Instructor office hours**: Monday 12:30-1:00 PM and by appointments
