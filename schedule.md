@@ -36,13 +36,13 @@ table, th, td {
         <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 2</td>
     </tr>
         <tr>
-        <td>Sep 2 (Labor Day, no class)</td>
-        <td colspan="2" style="text-align: center"><i><b>Labor Day</b></i></td>   
+        <td>Sep 2 </td>
+        <td colspan="2" style="text-align: center"><i><b>Labor Day (no class)</b></i></td>   
     </tr>
         <tr>
         <td>Sep 4</td>
         <td></td>
-        <td><a href="http://www.acsac.org/2005/papers/Bell.pdf">Looking Back at the Bell-La Padula Model</a></td>
+        <td></td>
     </tr>
     <tr>
         <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 3</td>
@@ -50,7 +50,7 @@ table, th, td {
         <tr>
         <td>Sep 9</td>
         <td></td>
-        <td><a href="http://seclab.cs.ucdavis.edu/projects/history/papers/biba75.pdf">Biba: Integrity Consideration for Secure Systems</a></td>
+        <td></td>
     </tr>
         <tr>
         <td>Sep 11</td>
