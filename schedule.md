@@ -20,7 +20,7 @@ table, th, td {
         <th>References</th>
     </tr>
     <tr>
-        <td colspan=3 style="background: #B1ACE6; text-align: center"> Week 1</td>
+        <td colspan=3 style="background: #a2a8d3; text-align: center"> Week 1</td>
     </tr>
     <tr>
         <td>Aug 26</td>
@@ -33,7 +33,7 @@ table, th, td {
         <td></td>
     </tr>
         <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 2</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 2</td>
     </tr>
         <tr>
         <td>Sep 2 </td>
@@ -45,7 +45,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 3</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 3</td>
     </tr>
         <tr>
         <td>Sep 9</td>
@@ -58,7 +58,7 @@ table, th, td {
         <td></td>
     </tr>
         <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 4</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 4</td>
     </tr>
         <tr>
         <td>Sep 16</td>
@@ -71,7 +71,7 @@ table, th, td {
         <td></td>
     </tr>
         <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 5</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 5</td>
     </tr>
         <tr>
         <td>Sep 23</td>
@@ -84,7 +84,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 6</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 6</td>
     </tr>
         <tr>
         <td>Sep 30</td>
@@ -97,18 +97,18 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 7</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 7</td>
     </tr>
         <tr>
         <td>Oct 7</td>
-        <td colspan="2" style="background: #85C1E9; text-align: center"><i><b>Project Proposal Presentations</b></i></td>
+        <td colspan="2" style="background: #e7eaf6; text-align: center"><i><b>Project Proposal Presentations</b></i></td>
     </tr>
         <tr>
         <td>Oct 9</td>
-        <td colspan="2" style="background: #85C1E9; text-align: center"><i><b>Project Proposal Presentations</b></i></td>
+        <td colspan="2" style="background: #e7eaf6; text-align: center"><i><b>Project Proposal Presentations</b></i></td>
     </tr>
     <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 8</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 8</td>
     </tr>
         <tr>
         <td>Oct 14</td>
@@ -121,7 +121,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 9</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 9</td>
     </tr>
         <tr>
         <td>Oct 21</td>
@@ -134,7 +134,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 10</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 10</td>
     </tr>
         <tr>
         <td>Oct 28</td>
@@ -147,7 +147,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 11</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 11</td>
     </tr>
         <tr>
         <td>Nov 4</td>
@@ -160,7 +160,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 12</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 12</td>
     </tr>
         <tr>
         <td>Nov 11</td>
@@ -173,7 +173,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 13</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 13</td>
     </tr>
         <tr>
         <td>Nov 18</td>
@@ -186,7 +186,7 @@ table, th, td {
         <td></td>
     </tr>
     <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 14</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 14</td>
     </tr>
         <tr>
         <td>Nov 25</td>
@@ -198,7 +198,7 @@ table, th, td {
         <td colspan="2" style="text-align: center"><i><b>Thanksgiving (no class)</b></i></td>
     </tr>
      <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 15</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 15</td>
     </tr>
         <tr>
         <td>Dec 2</td>
@@ -207,13 +207,13 @@ table, th, td {
     </tr>
         <tr>
         <td>Dec 4</td>
-        <td colspan="2" style="background: #85C1E9; text-align: center"><i><b>Final Project Presentations</b><i></td>
+        <td colspan="2" style="background: #e7eaf6; text-align: center"><i><b>Final Project Presentations</b><i></td>
     </tr>
      <tr>
-        <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 16</td>
+        <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 16</td>
     </tr>
         <tr>
         <td>Dec 9 (Last Day of Classes)</td>
-        <td colspan="2" style="background: #85C1E9; text-align: center"><i><b>Final Project Presentations</b></i></td>
+        <td colspan="2" style="background: #e7eaf6; text-align: center"><i><b>Final Project Presentations</b></i></td>
     </tr>
 </table>

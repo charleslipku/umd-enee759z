@@ -13,7 +13,13 @@ As data from various sources and stakeholders becomes central to powering machin
 - Security and privacy in federated learning
 - federated learning with emerging foundation models
 
-## General Information
+## Grading Policy (subject to change)
+The requirements for this course include active participation in and leadership of discussion sessions, as well as the completion of a course project. The grading breakdown is as follows:
+
+
+
+
+## Lecture Information
 * This course meets on **Mon/Wed 3:30 PM-4:45 PM** in **EGR 0135**.
 * The prerequisites for this course are: ENEE436 or CMSC422; or students who have taken courses with comparable content may contact the Department.
 <!-- * The TA for this course is: Russell Chiu (rchiu@umd.edu), Rutledge Detyens (rdetyens@umd.edu) -->
