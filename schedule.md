@@ -101,11 +101,11 @@ table, th, td {
     </tr>
         <tr>
         <td>Oct 7</td>
-        <td colspan="2" style="background: #85C1E9; text-align: center">Project Proposal Presentations</td>
+        <td colspan="2" style="background: #85C1E9; text-align: center"><i><b>Project Proposal Presentations</b></i></td>
     </tr>
         <tr>
         <td>Oct 9</td>
-        <td colspan="2" style="background: #85C1E9; text-align: center">Project Proposal Presentations</td>
+        <td colspan="2" style="background: #85C1E9; text-align: center"><i><b>Project Proposal Presentations</b></i></td>
     </tr>
     <tr>
         <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 8</td>
@@ -207,13 +207,13 @@ table, th, td {
     </tr>
         <tr>
         <td>Dec 4</td>
-        <td colspan="2" style="background: #85C1E9; text-align: center">Final Project Presentations</td>
+        <td colspan="2" style="background: #85C1E9; text-align: center"><i><b>Final Project Presentations</b><i></td>
     </tr>
      <tr>
         <td colspan="3" style="background: #B1ACE6; text-align: center"> Week 16</td>
     </tr>
         <tr>
         <td>Dec 9 (Last Day of Classes)</td>
-        <td colspan="2" style="background: #85C1E9; text-align: center">Final Project Presentations</td>
+        <td colspan="2" style="background: #85C1E9; text-align: center"><i><b>Final Project Presentations</b></i></td>
     </tr>
 </table>
