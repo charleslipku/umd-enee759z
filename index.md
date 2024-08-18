@@ -14,11 +14,18 @@ As data from various sources and stakeholders becomes central to powering machin
 - federated learning with emerging foundation models
 
 ## Grading Policy (subject to change)
-The requirements for this course include active participation in and leadership of discussion sessions, as well as the completion of a course project. The grading breakdown is as follows:
-- **Paper review (30%):** Each non-presenter student need to review one of the two discussed papers every week, the format follows the instructions and template of NeurIPS conference. The details will be explained in the lecture and the template will uploaded to Canvas.
-- **Paper presentation and discussion (30%):** Each student needs to present two selected papers throughout the semester and lead the discussion for each paper. Non-presenter need to prepare at least one question for each presented paper in the discussion.
-- **Team Project (40%)**: Each team can include up to 3 students, and the project grades can be divided as:
-  - **Proposal (5%)**: Each team needs to submit a two-page project proposal 
+
+The course requirements include active participation in and leadership of discussion sessions, as well as the completion of a course project. The grading breakdown is as follows:
+
+- **Paper Review (30%):** Each week, non-presenting students are required to review one of the two papers under discussion. The review should follow the NeurIPS conference format, with specific instructions and a template provided in Canvas. Further details will be explained during the lecture.
+
+- **Paper Presentation and Discussion (30%):** Every student will present two selected papers over the course of the semester and lead the discussion for each. Non-presenting students must prepare at least one question for each paper discussed.
+
+- **Team Project (40%):** Teams can consist of up to 3 students, with the project grade divided as follows:
+  - **Proposal (10%):** A two-page project proposal is due by October 13th. A template will be available on Canvas.
+  - **Proposal Presentation (10%):** Each team will present their project during the week of October 14th.
+  - **Final Project Report (10%):** A nine-page final report, adhering to the NeurIPS submission template, must be submitted by December 9th.
+  - **Final Project Presentation (10%):** Teams will present their final projects on December 4th and December 9th.
 
 
 
