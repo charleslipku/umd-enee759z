@@ -11,7 +11,7 @@ As data from various sources and stakeholders becomes central to powering machin
 - Data heterogeneity in federated learning
 - System heterogeneity in federated learning
 - Security and privacy in federated learning
-- federated learning with emerging foundation models
+- Federated learning with emerging foundation models
 
 ## Grading Policy (subject to change)
 
