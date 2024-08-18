@@ -207,7 +207,7 @@ table, th, td {
     </tr>
         <tr>
         <td>Dec 4</td>
-        <td colspan="2" style="background: #e7eaf6; text-align: center"><i><b>Final Project Presentations</b><i></td>
+        <td colspan="2" style="background: #e7eaf6; text-align: center"><i><b>Final Project Presentations</b></i></td>
     </tr>
      <tr>
         <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 16</td>
