@@ -24,13 +24,13 @@ table, th, td {
     </tr>
     <tr>
         <td>Aug 26</td>
-        <td>Introduction & Logistics</td>
+        <td>Logistics & Introduction (I)</td>
         <td><a href="https://arxiv.org/abs/1912.04977">Advances and Open Problems in Federated Learning</a><br/><a href="https://arxiv.org/abs/1908.07873">Federated Learning: Challenges, Methods, and Future Directions</a></td>
     </tr>
         <tr>
         <td>Aug 28</td>
-        <td></td>
-        <td></td>
+        <td>Introduction (II)</td>
+        <td><td><a href="https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view">Federated Learning Tutorial (NeurIPS 2020)</a><br/><a href="https://federated.withgoogle.com">Google Blog</a></td>
     </tr>
         <tr>
         <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 2</td>
