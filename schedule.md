@@ -101,24 +101,24 @@ table, th, td {
     </tr>
         <tr>
         <td>Oct 7</td>
-        <td colspan="2" style="background: #e7eaf6; text-align: center"><i><b>Project Proposal Presentations</b></i></td>
+        <td></td>
+        <td></td>
     </tr>
         <tr>
         <td>Oct 9</td>
-        <td colspan="2" style="background: #e7eaf6; text-align: center"><i><b>Project Proposal Presentations</b></i></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 8</td>
     </tr>
         <tr>
         <td>Oct 14</td>
-        <td></td>
-        <td></td>
+        <td colspan="2" style="background: #e7eaf6; text-align: center"><i><b>Project Proposal Presentations</b></i></td>
     </tr>
         <tr>
         <td>Oct 16</td>
-        <td></td>
-        <td></td>
+        <td colspan="2" style="background: #e7eaf6; text-align: center"><i><b>Project Proposal Presentations</b></i></td>
     </tr>
     <tr>
         <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 9</td>

@@ -17,7 +17,8 @@ As data from various sources and stakeholders becomes central to powering machin
 The requirements for this course include active participation in and leadership of discussion sessions, as well as the completion of a course project. The grading breakdown is as follows:
 - **Paper review (30%):** Each non-presenter student need to review one of the two discussed papers every week, the format follows the instructions and template of NeurIPS conference. The details will be explained in the lecture and the template will uploaded to Canvas.
 - **Paper presentation and discussion (30%):** Each student needs to present two selected papers throughout the semester and lead the discussion for each paper. Non-presenter need to prepare at least one question for each presented paper in the discussion.
-- **Project (40%)**: e
+- **Team Project (40%)**: Each team can include up to 3 students, and the project grades can be divided as:
+  - **Proposal (5%)**: Each team needs to submit a two-page project proposal 
 
 
 
