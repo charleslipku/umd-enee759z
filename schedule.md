@@ -30,7 +30,7 @@ table, th, td {
         <tr>
         <td>Aug 28</td>
         <td>Introduction (II)</td>
-        <td><td><a href="https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view">Federated Learning Tutorial (NeurIPS 2020)</a><br/><a href="https://federated.withgoogle.com">Google Blog</a></td>
+        <td><a href="https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view">Federated Learning Tutorial (NeurIPS 2020)</a><br/><a href="https://federated.withgoogle.com">Google Blog</a></td>
     </tr>
         <tr>
         <td colspan="3" style="background: #a2a8d3; text-align: center"> Week 2</td>
